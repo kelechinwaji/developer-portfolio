@@ -4,17 +4,17 @@ export default function Skills() {
     <section className="skills">
       <img className="skills-bg" src={BgImage} alt="" />
       <div className="skill">
-        <h1 className="skill-name">HTML</h1>
+        <h1 className="skill-name">NodeJs</h1>
         {/* <p className="experience">4 Years Experience</p> */}
       </div>
 
       <div className="skill">
-        <h1 className="skill-name">CSS</h1>
+        <h1 className="skill-name">NestJs</h1>
         {/* <p className="experience">4 Years Experience</p> */}
       </div>
 
       <div className="skill">
-        <h1 className="skill-name">Bootstrap</h1>
+        <h1 className="skill-name">Typescript</h1>
         {/* <p className="experience">4 Years Experience</p> */}
       </div>
 
@@ -24,12 +24,12 @@ export default function Skills() {
       </div>
 
       <div className="skill">
-        <h1 className="skill-name">React.js</h1>
+        <h1 className="skill-name">MongoDb</h1>
         {/* <p className="experience">1 Year Experience</p> */}
       </div>
 
       <div className="skill">
-        <h1 className="skill-name">Node.js</h1>
+        <h1 className="skill-name">PostgreSQL</h1>
         {/* <p className="experience">1 Year Experience</p> */}
       </div>
 
@@ -39,12 +39,12 @@ export default function Skills() {
       </div>
 
       <div className="skill">
-        <h1 className="skill-name">MongoDB</h1>
+        <h1 className="skill-name">ReatJs</h1>
         {/* <p className="experience">1 Year Experience</p> */}
       </div>
 
       <div className="skill">
-        <h1 className="skill-name">Tailwind</h1>
+        <h1 className="skill-name">Git</h1>
         {/* <p className="experience">1 Year Experience</p> */}
       </div>
     </section>
