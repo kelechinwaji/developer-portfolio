@@ -30,8 +30,7 @@ export default function Hero() {
         </div>
 
         <p className="hero-text">
-          Based in the Silver Spring, MD, I’m a front-end developer passionate about building
-          accessible web apps that users love.
+        A backend engineer with over 2 years of experience, skilled at building scalable and efficient systems that power web applications. My expertise lies in designing and developing REST APIs. I take great pride in my attention to detail, my ability to write clean and organized code.
         </p>
         
         <a onClick={handleClickScroll} className="btn">My Projects</a>
