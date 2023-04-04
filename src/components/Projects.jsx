@@ -1,5 +1,5 @@
-import Planets from "../assets/the-planets-preview.jpg";
-import AroundTheWorld from "../assets/countries-preview.jpg";
+import Speak from "../assets/speak.jpeg";
+import Afri from "../assets/afri.jpeg";
 import Splitter from "../assets/splitter-preview.jpg";
 import ClockApp from "../assets/clock-preview.jpg";
 import RPSPreview from "../assets/rps-preview.jpg";
@@ -13,35 +13,33 @@ export default function Projects() {
       </div>
       <div className="card-container">
         <div className="card">
-          <img src={Planets} alt="Project 1" className="thumbnail" />
+          <img src={Speak} alt="Project 1" className="thumbnail" />
           <div className="card-content">
-            <h3 className="project-title">The Planets</h3>
+            <h3 className="project-title">SpeakBetter</h3>
             <div className="tech">
               <span>Node.js</span>
               <span>EJS</span>
             </div>
-            <p class="project-desc">This project is a informational site about the planets. No, Pluto isn't a planet. (Render.com free tier apps load slowly, please be patient). Data taken from JSON file.</p>
+            <p class="project-desc">AI-powered grammar checker backed by an automatic speech recognition system trained with over 650,000 hours of multilingual speech data collected from all over the internet.</p>
             <div className="card-btn">
-            <a target="_blank" href="https://all-about-the-planets.onrender.com/"><button className="btn">View Project</button></a>
-            <a target="_blank" href="https://github.com/GuyNamedEJ/planets-fact-site"><button className="btn">View Code</button></a>
+            <a target="_blank" href="https://speakbetter.fun/"><button className="btn">View Project</button></a>
+            <a target="_blank" href="https://github.com/workshopapps/grammarcheckerai.web/tree/feat/BAC-12-user-profile"><button className="btn">View Code</button></a>
             </div>
           </div>
         </div>
 
         <div className="card">
-          <img src={AroundTheWorld} alt="Project 1" className="thumbnail" />
+          <img src={Afri} alt="Project 1" className="thumbnail" />
           <div className="card-content">
-            <h3 className="project-title">Around The World</h3>
+            <h3 className="project-title">AfriBook</h3>
             <div className="tech">
-              <span>React</span>
-              <span>Tailwind</span>
-              <span>Material UI</span>
-              <span>Countries REST API</span>
+              <span>NodeJs</span>
+              <span>Typscript</span>
             </div>
-            <p class="project-desc">This site will give you information on every country in the world</p>
+            <p class="project-desc">AfriBook is an E-commerce market place for African authors to publish books and readers can buy.</p>
             <div className="card-btn">
-            <a target="_blank" href="https://project-globetrotter.netlify.app/"><button className="btn">View Project</button></a>
-            <a target="_blank" href="https://github.com/GuyNamedEJ/Where-in-the-world-react"><button className="btn">View Code</button></a>
+            <a target="_blank" href="https://afribook.netlify.app/"><button className="btn">View Project</button></a>
+            <a target="_blank" href="https://github.com/AfriBooks/Backend_api"><button className="btn">View Code</button></a>
             </div>
           </div>
         </div>
