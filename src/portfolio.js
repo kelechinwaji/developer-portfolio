@@ -10,7 +10,7 @@ const about = {
     "I build robust and scalable server-side solutions for seamless user experiences.",
  
   resume:
-    "https://drive.google.com/file/d/1lIZRn4euYIZdRIwXIClfIwpmnM2-A6MM/view?usp=sharing",
+    "https://drive.google.com/file/d/1iaJOhs2TTrkn2FVk1pjDGGbLne3-PVsv/view?usp=sharing",
   social: {
     linkedin: "https://www.linkedin.com/in/kelechukwu-nwaji/",
     github: "https://github.com/kelechinwaji",
