@@ -6,7 +6,7 @@ const Footer = () => (
       href='https://github.com/jidoggs'
       className='link footer__link'
     >
-      © {new Date().getFullYear()} Olajide Shonuga
+      © {new Date().getFullYear()} Kelechi Nwaji
     </a>
   </footer>
 )
