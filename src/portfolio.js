@@ -69,6 +69,7 @@ const projects = [
 
 const skills = [
   "NodeJs",
+  "AWS",
   "JavaScript",
   "TypeScript",
   "Postgresql",
