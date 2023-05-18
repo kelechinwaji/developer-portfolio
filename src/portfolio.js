@@ -20,11 +20,12 @@ const about = {
 const projects = [
   {
     name: "Speak Better",
-    description:
-      "AI-powered grammar checker backed by an automatic speech recognition system trained with over 650,000 hours of multilingual speech data collected from all over the internet",
+    description:`AI-powered grammar checker backed by an automatic speech recognition system trained with over 650,000 hours of multilingual speech data collected from all over the internet.
+    
+    On this team project, I built the backend text and audio transcibe model`,
     stack: ["OpenAi", "JavaScript", "MongoDB"],
     sourceCode: "https://github.com/workshopapps/grammarcheckerai.web/tree/BAC2-77-flutterwave",
-    livePreview: "https://speakbetter.fun/",
+    livePreview: "https://speakbetter.fun/converse",
   },
   {
     name: "AfriBook",
